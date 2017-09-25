@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rueda()
+comment1.params=valorTipo
+comment1.target=void\ setTipo(java.lang.String)
+comment2.params=valorGrosor
+comment2.target=void\ setGrosor(double)
+comment3.params=valorDiametro
+comment3.target=void\ setDiametro(double)
+comment4.params=valorMarca
+comment4.target=void\ setMarca(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getTipo()
+comment6.params=
+comment6.target=void\ comprobarDimensiones()
+comment7.params=
+comment7.target=double\ getGrosor()
+comment8.params=
+comment8.target=double\ getDiametro()
+comment9.params=
+comment9.target=java.lang.String\ getMarca()
+numComments=10

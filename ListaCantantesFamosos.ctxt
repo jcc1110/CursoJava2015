@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaCantantesFamosos()
+comment1.params=nombre
+comment1.target=void\ addCantante(java.lang.String)
+comment2.params=posicion
+comment2.target=java.lang.String\ getCantante(int)
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=
+comment4.target=void\ getTodos()
+numComments=5

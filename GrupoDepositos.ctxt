@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=numeroDeDepositosGrupo\ valor_idGrupo
+comment0.target=GrupoDepositos(int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getNumeroDepositosGrupo()
+comment2.params=
+comment2.target=java.lang.String\ getIdGrupo()
+comment3.params=
+comment3.target=float\ capacidadDelGrupo()
+numComments=4
