@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Combinador()
+comment1.params=valor_texto1\ valor_texto2
+comment1.target=java.lang.String\ combinacion(java.lang.String,\ java.lang.String)
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deposito()
+comment1.params=valor_diametro\ valor_altura\ valor_idDeposito
+comment1.target=Deposito(float,\ float,\ java.lang.String)
+comment2.params=valor_idDeposito\ valor_diametro\ valor_altura
+comment2.target=void\ setValoresDeposito(java.lang.String,\ float,\ float)
+comment3.params=
+comment3.target=float\ getDiametro()
+comment4.params=
+comment4.target=float\ getAltura()
+comment5.params=
+comment5.target=java.lang.String\ getIdDeposito()
+comment6.params=
+comment6.target=float\ valorCapacidad()
+numComments=7

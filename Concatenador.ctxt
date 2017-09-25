@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Concatenador()
+comment1.params=cadena1\ cadena2\ cadena3
+comment1.target=java.lang.String\ generaCodigo(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

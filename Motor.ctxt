@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Motor()
+comment1.params=valorTipoBomba
+comment1.target=void\ setTipoBomba(int)
+comment2.params=valorTipoFluido
+comment2.target=void\ setTipoFluido(java.lang.String)
+comment3.params=valorCombustible
+comment3.target=void\ setCombustible(java.lang.String)
+comment4.params=
+comment4.target=int\ getTipoBomba()
+comment5.params=
+comment5.target=java.lang.String\ getTipoFluido()
+comment6.params=
+comment6.target=java.lang.String\ getCombustible()
+comment7.params=
+comment7.target=void\ dimeTipoMotor()
+comment8.params=
+comment8.target=boolean\ dimeSiMotorEsParaAgua()
+numComments=9

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=objetoTaxi\ objetoPersona
+comment0.target=TaxiCond(Taxi,\ Persona)
+comment1.params=valorMatricula
+comment1.target=void\ setMatricula(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDatosTaxiCond()
+numComments=3

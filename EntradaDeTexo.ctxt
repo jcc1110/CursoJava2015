@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EntradaDeTexo()
+comment1.params=
+comment1.target=void\ pedirEntrada()
+comment2.params=
+comment2.target=java.lang.String\ getEntrada()
+comment3.params=
+comment3.target=java.lang.String\ getPrimeraPalabra()
+comment4.params=
+comment4.target=java.lang.String\ getTextoMayusculas()
+comment5.params=
+comment5.target=java.lang.String\ getTextoCapitalizado()
+comment6.params=
+comment6.target=int\ getLongitud()
+numComments=7

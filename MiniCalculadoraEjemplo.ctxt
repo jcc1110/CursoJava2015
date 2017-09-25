@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MiniCalculadoraEjemplo()
+comment1.params=numero
+comment1.target=double\ valorAbsoluto(double)
+comment2.params=numero
+comment2.target=double\ raizCuadrada(double)
+numComments=3
