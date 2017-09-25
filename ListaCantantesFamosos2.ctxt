@@ -1,6 +1,7 @@
 #BlueJ class context
-comment0.params=valorNombre
-comment0.target=ListaCantantesFamosos2(java.lang.String)
-comment1.params=cantante
-comment1.target=void\ addCantanteFamoso(CantanteFamoso)
-numComments=2
+comment0.target=ListaCantantesFamosos2
+comment1.params=valorNombre
+comment1.target=ListaCantantesFamosos2(java.lang.String)
+comment2.params=cantante
+comment2.target=void\ addCantanteFamoso(CantanteFamoso)
+numComments=3

@@ -1,12 +1,13 @@
 #BlueJ class context
-comment0.params=valorNombre\ valorDisco
-comment0.target=CantanteFamoso(java.lang.String,\ java.lang.String)
-comment1.params=nombre
-comment1.target=void\ setNombre(java.lang.String)
-comment2.params=
-comment2.target=java.lang.String\ getNombre()
-comment3.params=disco
-comment3.target=void\ setDiscoConMasVentas(java.lang.String)
-comment4.params=
-comment4.target=java.lang.String\ getDiscoConMasVentas()
-numComments=5
+comment0.target=CantanteFamoso
+comment1.params=valorNombre\ valorDisco
+comment1.target=CantanteFamoso(java.lang.String,\ java.lang.String)
+comment2.params=nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=disco
+comment4.target=void\ setDiscoConMasVentas(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDiscoConMasVentas()
+numComments=6
