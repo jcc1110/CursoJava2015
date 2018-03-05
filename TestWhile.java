@@ -3,7 +3,7 @@ public class TestWhile{
         int i=0;
         while(true){
             i++;
-            System.out.println("Valor de i: " + i);
+            System.out.println("El valor de i es: " + i);
             if(i==9){break;}
         }
     }
