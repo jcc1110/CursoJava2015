@@ -4,7 +4,7 @@ public class TestWhile{
         while(true){
             i++;
             System.out.println("El valor de i es: " + i);
-            if(i==9){break;}
+            if(i==100){break;}
         }
     }
 }
