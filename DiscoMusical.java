@@ -6,24 +6,19 @@ public class DiscoMusical{
     private boolean digital;
     private int numeroPistas;
     private float duracionPista;
-    private int numeroPista;
-    
     public DiscoMusical(){
         titulo="Desconocido";
         autor="Desconocido";
-        anoEdicion=0;
         formato="Desconocido";
         digital=false;
         numeroPistas=0;
+        anoEdicion=0;
     }
     
     public void setTitulo(String valorTitulo){
         titulo=valorTitulo;
     }
     
-    public void setAutor(String valorAutor){
-        autor=valorAutor;
-    }
     
     public void setAnoEdicion(int valorAnoEdicion){
         anoEdicion=valorAnoEdicion;
@@ -37,6 +32,11 @@ public class DiscoMusical{
         digital=valorDigital;
     }
    
+    public int pruebadem(int caca){
+        int numero=caca*2;        
+        return nunero;
+    }
+
     public void setNumeroPistas(int valorNumeroPistas){
         numeroPistas=valorNumeroPistas;
     }
@@ -67,7 +67,7 @@ public class DiscoMusical{
     
     public void setDuracionPista(int valorNumeroPista, float valorDuracionPista)
     {
-        numeroPista=valorNumeroPista;
+        numeroPistas=valorNumeroPista;
         duracionPista=valorDuracionPista;
     }
     
@@ -79,6 +79,20 @@ public class DiscoMusical{
     public void addCancion(int tituloCancion, float duracionCancion){
     
     }
+    
+	/**
+	 * @return the autor
+	 */
+	public String getAutor() {
+		return autor;
+	}
+
+	/**
+	 * @param autor the autor to set
+	 */
+	public void setAutor(String autor) {
+		this.autor = autor;
+	}
     
     
     

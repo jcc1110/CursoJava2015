@@ -4,22 +4,16 @@
     // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {
-            "type": "java",
-            "name": "Debug (Launch)-TestWhile",
-            "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
-            "stopOnEntry": false,
-            "mainClass": "TestWhile",
-            "args": ""
-        },
-        {
-            "type": "java",
-            "name": "Debug (Attach)",
-            "request": "attach",
-            "hostName": "localhost",
-            "port": 0
-        }
+   {
+       "type": "java",
+       "name": "Debug (Launch)",
+       "request": "launch",
+       "cwd": "${workspaceFolder}",
+       "console": "internalConsole",
+       "stopOnEntry": false,
+       "mainClass": "TestPrograma1",
+       "args": ""
+   }
+
     ]
 }
