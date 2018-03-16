@@ -12,6 +12,7 @@ public class EntradaDeTexo{
     public void pedirEntrada(){
         Scanner entradaEscaner = new Scanner(System.in);
         entradaTeclado=entradaEscaner.nextLine();
+        entradaEscaner.close();
     }
     
     public String getEntrada(){return entradaTeclado;}

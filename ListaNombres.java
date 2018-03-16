@@ -2,13 +2,9 @@ import java.util.ArrayList; //Los import deben ir siempre al principio antes de 
 
 public class ListaNombres {
 
-    private String nombreDeLaLista; //Establecemos un atributo nombre de la lista
-
     private ArrayList<String> listadenombres; //Declaramos un ArrayList que contiene objetos String
 
     public ListaNombres (String nombre) {    //Constructor: crea una lista de nombres vacía
-
-        nombreDeLaLista = nombre;
 
         listadenombres = new ArrayList<String>(); //Creamos el objeto de tipo ArrayList
 
@@ -30,7 +26,7 @@ public class ListaNombres {
 
  
 
-    public int getTamaño () { return listadenombres.size(); } //Cierre del método
+    public int getTamano () { return listadenombres.size(); } //Cierre del método
 
  
 
