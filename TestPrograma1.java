@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class TestPrograma1 {
+    
     public static void main(String[] args) {
         System.out.println("Empezamos el programa");
         System.out.println("Por favor introduzca una cadena por teclado:");

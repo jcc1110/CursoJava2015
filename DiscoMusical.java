@@ -34,7 +34,7 @@ public class DiscoMusical{
    
     public int pruebadem(int caca){
         int numero=caca*2;        
-        return nunero;
+        return numero;
     }
 
     public void setNumeroPistas(int valorNumeroPistas){
